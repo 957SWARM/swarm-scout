@@ -1,0 +1,11 @@
+[team957]
+badDataMatches = [25, 43]
+matchComments = "goated"
+outlierMatches = [2, 18]
+pitComments = "obviously perfect robot"
+
+[team123]
+badDataMatches = [12, 43]
+matchComments = "could use improvement"
+outlierMatches = [45, 54]
+pitComments = "were rude"

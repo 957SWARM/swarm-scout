@@ -1,0 +1,2 @@
+matplotlib>=3.8.2
+black>=24.1.1

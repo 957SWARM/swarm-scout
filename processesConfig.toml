@@ -1,0 +1,11 @@
+[numAmp]
+ignoreOutliers = false
+ignoreBadData = true
+source = "csv::piecesInAmp"
+movingAverage = 4
+
+[matchScore]
+ignoreOutliers = false
+ignoreBadData = false
+source = "statbotics::matchScore" # not actual name for this, will fix
+movingAverage = 0
